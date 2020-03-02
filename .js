@@ -1,1 +1,1 @@
-console.log('fature-b');
+console.log('feature-b');
